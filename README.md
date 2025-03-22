@@ -42,17 +42,20 @@ Accuracy_loss, ROC Curve, and confusion matrix visualization.
 
 
 
-Flowchart of the Proposed Model: ![light_workflow_diagram](https://github.com/user-attachments/assets/405bed26-b742-44fd-a8d1-858a23d31887)
+### Flowchart of the Proposed Model: 
+![light_workflow_diagram](https://github.com/user-attachments/assets/405bed26-b742-44fd-a8d1-858a23d31887)
 
 
 
 
-ROC_Curve: ![roc_curve](https://github.com/user-attachments/assets/80f59e22-81af-4eb8-bd0b-c94ffcfcd5a3)
+### ROC_Curve: 
+![roc_curve](https://github.com/user-attachments/assets/80f59e22-81af-4eb8-bd0b-c94ffcfcd5a3)
 
 
 
 
-Precision_Recall_Curve: ![precision_recall_curve](https://github.com/user-attachments/assets/710eb40e-2d7b-42c2-993c-23a81dfa598e)
+### Precision_Recall_Curve: 
+![precision_recall_curve](https://github.com/user-attachments/assets/710eb40e-2d7b-42c2-993c-23a81dfa598e)
 
 
 
