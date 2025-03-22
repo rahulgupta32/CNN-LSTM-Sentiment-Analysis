@@ -6,19 +6,11 @@ CNN-LSTM Sentiment Analysis
 This project implements a hybrid CNN-LSTM deep learning model for sentiment analysis. It uses a dataset of movie reviews to classify each review as positive or negative. The notebook combines the feature extraction strength of CNNs with the temporal understanding capability of LSTMs for improved accuracy.
 
  ### Overview
-The primary goal of this project is to:
-•	Clean and preprocess text data.
-•	Use word embeddings (via Keras Tokenizer and padded sequences).
-•	Build and train a hybrid CNN-LSTM model.
-•	Evaluate the model performance on test data.
+The primary goal of this project is to Clean and preprocess text data, Use word embeddings (via Keras Tokenizer and padded sequences),	Build and train a hybrid CNN-LSTM model, Evaluate the model performance on test data.
 
  ### Technologies & Libraries Used
-•	Python
-•	Keras / TensorFlow
-•	NumPy, Pandas
-•	Matplotlib & Seaborn (for visualization)
-•	Scikit-learn (for metrics like accuracy, confusion matrix)
-•	NLTK (for stopword removal and tokenization)
+ 
+Python, Keras / TensorFlow, NumPy, Pandas,	Matplotlib & Seaborn (for visualization),	Scikit-learn (for metrics like accuracy, confusion matrix), NLTK (for stopword removal and tokenization)
 
 ### Dataset
 The notebook uses the IMDb movie reviews dataset from Keras. You can download the dataset from here: https://drive.google.com/file/d/1udefbVj0MAP7Vuae7D7tLtcGr7YNrQH6/view?usp=sharing
